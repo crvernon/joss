@@ -1,2 +1,2 @@
 # joss
-Test playground for JOSS paper compilation
+Test playground for JOSS paper compilation.
